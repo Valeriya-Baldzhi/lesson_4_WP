@@ -1,0 +1,90 @@
+/*
+table {
+    width: 50%;
+    border: 1;
+}
+
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+*/
+
+.styled-table {
+    width: 75%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.styled-table td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.one-four-seven {
+    width: 33.3%;
+}
+
+.five-six {
+    height: 200px;
+}
+
+.usual-field
+{
+    height: 50px;
+}
+
+.styled-table2{
+    width: 75%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.styled-table2 td{
+    border: 1px solid black;
+}
+
+.one-two-table2 {
+    height: 50px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.field3-table2{
+    width: 60%;
+    height: 50px;
+    text-align: center;
+    vertical-align: top;
+}
+
+.usual-field-table2{
+    width: 28%;
+    height: 100px;
+    text-align: center;
+    vertical-align: top;
+}
+
+
+.big-field{
+    height: 100px;
+    vertical-align: center;
+}
+
+
+.styled-table3{
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    height: 160px;
+}
+.styled-table3 td{
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: top;
+}
+
+.one_nine-table3{
+    height: 55px;
+}
