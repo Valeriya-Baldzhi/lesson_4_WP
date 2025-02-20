@@ -1,16 +1,6 @@
-/*
-table {
-    width: 50%;
-    border: 1;
+caption{
+    font-weight: bold;
 }
-
-td {
-    border: 1px solid black;
-    padding: 10px;
-    text-align: center;
-}
-*/
-
 .styled-table {
     width: 75%;
     border-collapse: collapse;
